@@ -1,2 +1,2 @@
 # QianyaoZ.github.io
-Let ideas fly!
+Some ideas during research!
