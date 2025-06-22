@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Minnesota, (2024-now)
-* B.S. in Physics, Sun Yat-sen University, 2020-2024
+* Ph.D in Physics, University of Minnesota (2024- now)
+* B.S. in Physics, Sun Yat-sen University (2020-2024)
 
 Publications
 ======
@@ -28,8 +28,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% WU Bo-qing, ZHU Qian-yao, YU Cong. Analogy study of acoustic wave and electromagnetic wave  reflection and refraction through eigenfunction[J]. College Physics, 2024, 43(8): 78-. %}
+    {% https://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.230281 %}
   {% endfor %}</ul>
   
 Teaching
