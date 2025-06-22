@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-* WU Bo-qing, ZHU Qian-yao, YU Cong. Analogy study of acoustic wave and electromagnetic wave  reflection and refraction through eigenfunction[J]. College Physics, 2024, 43(8): 78-. [Link Text](https://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.230281)
+* WU Bo-qing, ZHU Qian-yao, YU Cong. Analogy study of acoustic wave and electromagnetic wave  reflection and refraction through eigenfunction[J]. College Physics, 2024, 43(8): 78-. [Link](https://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.230281)
   
 Skills
 ======
@@ -26,11 +26,6 @@ Skills
   * Mathematica
   * Windows system for Linux (though I use Mac now)
 
-Publications
-======
-  <ul>{% WU Bo-qing, ZHU Qian-yao, YU Cong. Analogy study of acoustic wave and electromagnetic wave  reflection and refraction through eigenfunction[J]. College Physics, 2024, 43(8): 78-. %}
-    {% https://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.230281 %}
-  {% endfor %}</ul>
   
 Teaching
 ======
