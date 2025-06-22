@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Minnesota, (2024-now)
+* B.S. in Physics, Sun Yat-sen University, 2020-2024
 
-Work experience
+Publications
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* WU Bo-qing, ZHU Qian-yao, YU Cong. Analogy study of acoustic wave and electromagnetic wave  reflection and refraction through eigenfunction[J]. College Physics, 2024, 43(8): 78-. [Link Text](https://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.230281)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Chinese, English
+* Program:
+  * Python, C
+  * Mathematica
+  * Windows system for Linux (though I use Mac now)
 
 Publications
 ======
@@ -47,18 +32,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant in Physics 1301W (Fall 2024) at the University of Minnesota
+* Teaching Assistant in Physics 1302W (Spring 2025) at the University of Minnesota
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
