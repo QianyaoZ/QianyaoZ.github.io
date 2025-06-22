@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-14
 excerpt: 'This paper is a legacy of my undergraduate, something related to astronomy and computational physics'
-date: 2009-09-14
+date: 2024-09-14
 venue: 'College Physics (Chinese Journal)'
 slidesurl: None
 paperurl: 'http://academicpages.github.io/files/paper240914.pdf'
